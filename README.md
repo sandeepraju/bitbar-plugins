@@ -7,6 +7,7 @@ My BitBar plugins
 - [Roll a die](./roll-a-die)
 - [Flip a coin](./flip-a-coin)
 - [Random Wikipedia article](./random-wikipedia-article)
+- [Time since X](./since/)
 
 ## In progress
 
